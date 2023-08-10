@@ -38,6 +38,6 @@ The notebooks are self-contained and designed to run in a Jupyter environment. T
 
 You can install these libraries using the following command:
 
-'''
+```
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost scipy
-'''
+```
